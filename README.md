@@ -21,4 +21,5 @@ Olá, aqui vão algumas informações do projeto:
 5.6- Certifique-se que as configurações do Banco estão compatíveis com o arquivo application.properties
 5.7- Run as Spring Boot App
 
-Seja feliz!
+Att.
+Kayan Brandão Lira :)
