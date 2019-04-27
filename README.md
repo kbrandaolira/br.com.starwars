@@ -8,6 +8,8 @@ Olá, aqui vão algumas informações do projeto:
 
 4- Achou que tinha acabado? Aqui também vou explicar como rodar o projeto:
 
+4.0 Instale o MongoDB (https://www.mongodb.com/download-center/community)
+
 4.1- Instale o Java 8 (https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
 
 4.1.1- Certifique-se que o JAVA_HOME foi definido como variável de ambiente
